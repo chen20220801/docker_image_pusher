@@ -7,4 +7,4 @@
 #moelin/1panel
 #docker.io/homeassistant/home-assistant
 #docker.io/whyour/qinglong
-tianji
+moonrailgun/tianji
