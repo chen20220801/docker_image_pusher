@@ -8,4 +8,4 @@
 #docker.io/homeassistant/home-assistant
 #docker.io/whyour/qinglong
 #moonrailgun/tianji
-docker.io/corentinth/it-tools
+corentinth/it-tools
