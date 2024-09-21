@@ -7,5 +7,5 @@
 #moelin/1panel
 #docker.io/homeassistant/home-assistant
 #docker.io/whyour/qinglong
-moonrailgun/tianji
-wordpress
+#moonrailgun/tianji
+docker.io/wordpress
