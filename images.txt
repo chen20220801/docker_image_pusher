@@ -9,5 +9,6 @@
 #docker.io/whyour/qinglong
 #moonrailgun/tianji
 #corentinth/it-tools
-vaultwarden/server:latest
-nicolargo/glances:latest
+#vaultwarden/server:latest
+#nicolargo/glances:latest
+vaultwarden
