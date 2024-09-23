@@ -12,4 +12,4 @@
 #vaultwarden/server:latest
 #nicolargo/glances:latest
 #vaultwarden
-samwafgo/SamWaf
+SamWafLinux64
