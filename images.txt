@@ -13,4 +13,5 @@
 #nicolargo/glances:latest
 #vaultwarden
 #mereith/van-blog
-mongo:4.4.9
+#mongo:4.4.9
+mereith/van-blog:latest
