@@ -12,4 +12,5 @@
 #vaultwarden/server:latest
 #nicolargo/glances:latest
 #vaultwarden
-mereith/van-blog
+#mereith/van-blog
+jumpserver/jumpserver
