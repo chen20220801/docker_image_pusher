@@ -13,4 +13,4 @@
 #nicolargo/glances:latest
 #vaultwarden
 #mereith/van-blog
-jumpserver/jumpserver
+mongo:4.4.9
