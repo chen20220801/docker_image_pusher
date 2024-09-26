@@ -15,4 +15,4 @@
 #mereith/van-blog
 #mongo:4.4.9
 #mereith/van-blog:latest
-Leantime
+leantime/leantime:3.1.4
